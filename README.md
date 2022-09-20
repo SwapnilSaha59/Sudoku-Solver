@@ -1,4 +1,4 @@
-#Sudoku-Solver and Generator
+# Sudoku-Solver and Generator
 The function solver() is given that is used to generate the Sudoku Solver using a mask rate.
 The code is written in Python.
 ```python
